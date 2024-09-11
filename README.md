@@ -1,7 +1,7 @@
 # Financial-data-Analysis
 Performance of various financial indicators over time.
 # Financial Data Analysis Project Overview
-This Power BI project focuses on analyzing a financial dataset that includes fields such as `Product`, `Units Sold`, `Sales`, `COGS`, `Discounts`, `Gross Sales`, and other metrics. The goal is to gain insights into the performance of various financial indicators over time, helping stakeholders make data-driven decisions.
+This Power BI project focuses on analyzing a financial dataset that includes fields such as `Product`, `Units Sold`, `Sales`, `COGS`, `Discounts`, `Gross Sales`, and other metrics. The goal is to gain insights into the performance of various financial indicators over time, helping stakeholders make data-driven decisions. 
 
 ## Key Insights
 1. **Sales Trends**:
